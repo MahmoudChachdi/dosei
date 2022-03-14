@@ -1,5 +1,5 @@
 import React from 'react';
-import MERCH from './MERCH.jpg';
+
 
 
 import './Order.css';

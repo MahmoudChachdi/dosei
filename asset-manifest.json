@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dosei/static/css/main.50132d56.css",
+    "main.js": "/dosei/static/js/main.ba12d438.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dosei/static/js/787.28cb0dcd.chunk.js",
+    "static/media/MERCH.jpg": "/dosei/static/media/MERCH.aaf21e4b87d09c87734c.jpg",
+    "static/media/collab2.jpg": "/dosei/static/media/collab2.aac26441ccad860b9c41.jpg",
+    "static/media/morpho.jpg": "/dosei/static/media/morpho.aac26441ccad860b9c41.jpg",
+    "static/media/art2.jpg": "/dosei/static/media/art2.f5c41ad2c6eb7ca02c2f.jpg",
+    "static/media/art1.jpg": "/dosei/static/media/art1.8da2984449a481293f6e.jpg",
+    "static/media/purple.jpg": "/dosei/static/media/purple.8da2984449a481293f6e.jpg",
+    "static/media/collab1.jpg": "/dosei/static/media/collab1.ddef0b395a61bd70200c.jpg",
+    "static/media/LOGO.png": "/dosei/static/media/LOGO.89134418236919144727.png",
+    "index.html": "/dosei/index.html",
+    "main.50132d56.css.map": "/dosei/static/css/main.50132d56.css.map",
+    "main.ba12d438.js.map": "/dosei/static/js/main.ba12d438.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dosei/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50132d56.css",
+    "static/js/main.ba12d438.js"
+  ]
+}

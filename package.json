@@ -10,7 +10,6 @@
     "react": "^17.0.2",
     "react-bootstrap": "^2.1.1",
     "react-dom": "^17.0.2",
-    "react-particles-js": "^3.6.0",
     "react-scripts": "5.0.0",
     "react-tilt": "^0.1.4",
     "swiper": "^8.0.7",

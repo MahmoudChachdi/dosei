@@ -33,7 +33,8 @@ const Navbar = () => {
       </button>
     </Link>
     
-    <Link to="art" className='pointer b link   f4 f6-ns dib mr3 mr4-ns' ><button>
+    <Link to="art" className='pointer b link   f4 f6-ns dib mr3 mr4-ns' >
+    <button>
   <span className="button_top"  > Art
   </span>
 </button></Link>

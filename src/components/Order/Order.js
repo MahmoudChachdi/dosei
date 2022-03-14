@@ -27,7 +27,7 @@ function Order(props) {
 
 
  const onOrderSubmitCOD = () =>  {
-  fetch('http://localhost:3000/orderCOD', {
+  fetch(' https://murmuring-garden-96699.herokuapp.com/orderCOD', {
       method: 'post',
       mode: 'cors',
       headers: {'Content-Type': 'application/json'},

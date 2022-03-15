@@ -13,7 +13,7 @@ color: black; }
 }
 button {
   /* Variables */
- --button_radius: 0.75em;
+ --button_radius: 15px;
  --button_color: transparent;
  --button_outline_color: #e8e8e8;
  font-size: 17px;
@@ -28,7 +28,7 @@ button {
  box-sizing: border-box;
  border: 2px solid var(--button_outline_color);
  border-radius: var(--button_radius);
- padding: 2em 1.5em;
+ padding: 10px 15px;
  background: var(--button_color);
  color: var(--button_outline_color);
  transform: translateY(-0.2em);

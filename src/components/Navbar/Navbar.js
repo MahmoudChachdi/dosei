@@ -23,22 +23,22 @@ const Navbar = () => {
             </Link>
           
   </div>
-  <div class="dtc v-mid w-75 tr mr4">
+  <div className="dtc v-mid w-75 tr">
     
-    
-    <Link to="collab" className='pointer b link   f7 f7-ns dib mr1 mr1-ns'>
+    <div className=' ma3'>
+    <Link to="collab" className='pointer b    f7  dib mr1 '>
       <button>
         <span className="button_top "> Collaboration
         </span>
       </button>
     </Link>
     
-    <Link to="art" className='pointer b link   f7 f7-ns dib mr1 mr1-ns' >
+    <Link to="art" className='pointer b   f7  dib mr1 ' >
     <button>
   <span className="button_top "  > Art
   </span>
 </button></Link>
-
+</div>
 </div>
 </nav>
 <Outlet /> 

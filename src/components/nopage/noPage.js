@@ -15,7 +15,7 @@ const NoPage = () => {
   
   <ul class="list tc pl0 w-100 mt5">
 <div className='center' >
-       <Link to="home" >
+       <Link to="/" >
         <button type="button" >
           <span class="shadow"></span>
           <span class="edge"></span>

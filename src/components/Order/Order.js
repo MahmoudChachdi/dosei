@@ -174,7 +174,7 @@ return(
             
             
             </div>
-            <button type="button" onClick={onOrderSubmitCOD}>
+            <button className='mt3' type="button" onClick={onOrderSubmitCOD}>
               <span class="shadow"></span>
               <span class="edge"></span>
               <span class="front text"> ORDER 

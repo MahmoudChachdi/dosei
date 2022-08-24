@@ -1,8 +1,8 @@
 import React from 'react';
 import { Outlet, Link } from "react-router-dom";
-import MERCH from './MERCH.jpg';
-import purple from './purple.jpg';
-import morpho from './morpho.jpg';
+import MERCH from './MERCH.png';
+import purple from './purple.png';
+import morpho from './morpho.png';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/effect-coverflow";
@@ -63,7 +63,7 @@ return(
         <img  style={{ width: '100%' , height: '100%' }}  className='br4 image ' alt='robots' src={morpho }/>
       </div>
       <div className='center mb1' style={{width: '50%'}}>
-        <h2 className='white bg '>COLLAB</h2>
+        <h2 className='white bg '>ROADMAP</h2>
       </div>
       <div className='center mb1' >
        <Link to="collab">

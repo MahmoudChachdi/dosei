@@ -1,6 +1,6 @@
 import React from 'react';
-import ART1 from './art1.jpg';
-import ART2 from './art2.jpg';
+import ART1 from './art1.png';
+import ART2 from './art2.png';
 import './art.css';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";

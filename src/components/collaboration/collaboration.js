@@ -1,6 +1,6 @@
 import React from 'react';
-import COLLAB1 from './collab1.jpg';
-import COLLAB2 from './collab2.jpg';
+import COLLAB1 from './collab1.png';
+import COLLAB2 from './collab2.png';
 import './collaboration.css';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";

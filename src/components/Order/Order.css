@@ -34,13 +34,13 @@
  transform: scale(0.98);
  border-radius: 20px;
 }
-.container .title{
+.card .title{
   font-size: 25px;
   font-weight: 500;
   position: absolute;
   color: #e8e8e8 ;
 }
-.container .title::before{
+.card .title::before{
   content: "";
   position: absolute;
   left: 0;
